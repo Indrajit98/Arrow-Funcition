@@ -32,3 +32,8 @@ const arrow3 = (x,y) =>{
 }
 const result4 = arrow3(25,15)
 console.log(result4)
+
+///////////////Arrow function 4 step/////////////////////
+const arrow4 = () => 150;
+const result5 = arrow4();
+console.log(result5)
